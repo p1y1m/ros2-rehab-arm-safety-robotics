@@ -1,0 +1,15 @@
+build/
+install/
+log/
+__pycache__/
+*.pyc
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+credentials.json
+secrets.json
+.vscode/
