@@ -123,7 +123,7 @@ The session starts in `IDLE`. Use the `/rehab_session/start` service from anothe
 
 ## Simulation Preview
 
-| Part 1 — Automatic Exercise | Part 2 — Safety-Controlled Session |
-|---|---|
-| _Gazebo screenshot placeholder_ | _Gazebo screenshot placeholder_ |
+![Rehabilitation arm simulation - pose 1](images/gazebo_rehab_arm_1.png)
+
+![Rehabilitation arm simulation - pose 2](images/gazebo_rehab_arm_2.png)
 
