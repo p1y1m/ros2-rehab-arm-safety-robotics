@@ -1,5 +1,7 @@
 # ros2-rehab-arm-safety-robotics
 
+# Author: Pedro Yanez Melendez
+
 A ROS 2 Jazzy and Gazebo Harmonic simulation of a two-joint rehabilitation robotic arm. The project demonstrates smooth joint control, exercise-session management, measurement and CSV reporting, and a layered runtime safety architecture.
 
 > This is a simulation and software-engineering project. It is not a medical device and must not be used for diagnosis, treatment, or control of real rehabilitation hardware.
